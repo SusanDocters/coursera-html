@@ -1,5 +1,5 @@
 body {
-    background-color: grey;
+    background-color: white;
 }
 
 h1 {
@@ -7,15 +7,21 @@ h1 {
     text-align: center;
 }
 
-@media desktop (min-width: 992px) {
+p {
+    background-color: grey;
+    
+/* desktop */
+@media (min-width: 992px) {
 
 }
 
-@media tablet (min-width: 768px and max-width: 991px) {
+/* tablet */
+@media (min-width: 768px and max-width: 991px) {
 
 }
 
-@media mobile (max-width: 767px) {
+/* mobile */
+@media (max-width: 767px) {
 
 }
 
