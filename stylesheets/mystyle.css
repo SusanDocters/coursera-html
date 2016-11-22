@@ -17,14 +17,17 @@ h1 {
 }
 
 #sec1 {
+    font-size:16px;
     background-color: pink;
 }
 
 #sec2 {
+    font-size:16px;
     background-color: red;     
 }
 
 #sec3 { 
+    font-size:16px;
     background-color: yellow;    
 }
 
