@@ -27,8 +27,6 @@ h1 {
           width: 75%;
           height: 75%;
           background: pink;
-          left: 100%;
-          top: 100%;
     }
 
     #sec2 {
@@ -45,6 +43,7 @@ h1 {
 
 section { 
     display: block;
+    
 }
     
 /* desktop */
