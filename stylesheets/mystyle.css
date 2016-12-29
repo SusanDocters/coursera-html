@@ -20,6 +20,7 @@ h1 {
 }
 
 #sec1 {
+    position: absolute;
     background-color: pink;
     font-size: 26px;
     text-align: center;
@@ -29,6 +30,7 @@ h1 {
     }
 
 #sec2 {
+    position: absolute;
     background-color: red;
     font-size: 26px;
     text-align: center;
@@ -38,6 +40,7 @@ h1 {
     }
 
 #sec3 {
+    position: absolute;
     background-color: yellow;
     font-size:26px;
     text-align: center;
