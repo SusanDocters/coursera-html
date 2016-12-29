@@ -8,9 +8,29 @@ h1 {
     text-align: center;
 }
 
-/*basic section*/
+/*basic sections*/
 
-.basicsection {
+.basicsection1 {
+    float: left;
+    margin: right: 20px;
+    background-color: grey;
+    font-size:16px; 
+    border: 5px solid black;    
+    width: 300px;
+    height: 250px;
+}
+
+.basicsection2 {
+    float: left;
+    margin: right: 20px;
+    background-color: grey;
+    font-size:16px; 
+    border: 5px solid black;    
+    width: 300px;
+    height: 250px;
+}
+
+.basicsection3 {
     float: left;
     margin: right: 20px;
     background-color: grey;
@@ -22,6 +42,8 @@ h1 {
 
 #sec1 {
     position: absolute;
+    top: 0px;
+    right: 0px;
     background-color: pink;
     font-size: 26px;
     text-align: center;
@@ -32,6 +54,8 @@ h1 {
 
 #sec2 {
     position: absolute;
+    top: 0px;
+    right: 0px;
     background-color: red;
     font-size: 26px;
     text-align: center;
@@ -42,6 +66,8 @@ h1 {
 
 #sec3 {
     position: absolute;
+    top: 0px;
+    right: 0px;
     background-color: yellow;
     font-size:26px;
     text-align: center;
