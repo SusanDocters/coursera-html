@@ -11,7 +11,7 @@ h1 {
 /*basic section*/
 
 .basicsection {
-    position: relative;
+    position: absolute;
     background-color: grey;
     font-size:16px; 
     border: 5px solid black;    
@@ -21,7 +21,7 @@ h1 {
 }
 
 #sec1 {
-    position: absolute;
+    position: relative;
     background-color: pink;
     font-size: 26px;
     text-align: center;
@@ -32,11 +32,18 @@ h1 {
     top: 10px;
 }
 
-    #sec2 {
-        text-align: right;
-        font-size:32px;
-        background-color: red;
-        float: right;      
+#sec2 {
+    position: relative;
+    background-color: red;
+    font-size: 26px;
+    text-align: center;
+    border: 5px solid black;
+    width: 100px;
+    height: 50px;
+    left: 300px;
+    top: 10px;
+    
+    float: right;      
     }
 
     #sec3 { 
