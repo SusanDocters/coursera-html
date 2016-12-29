@@ -11,13 +11,14 @@ h1 {
 /*basic section*/
 
 .basicsection {
+    float: left;
+    margin: 20px;
     position: relative;
     background-color: grey;
     font-size:16px; 
     border: 5px solid black;    
     width: 300px;
     height: 250px;
-    margin: 20px;
 }
 
 #sec1 {
@@ -28,8 +29,6 @@ h1 {
     border: 3px solid black;
     width: 100px;
     height: 50px;
-    left: 300px;
-    top: 10px;
 }
 
 #sec2 {
